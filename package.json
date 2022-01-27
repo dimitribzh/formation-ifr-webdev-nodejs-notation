@@ -1,0 +1,15 @@
+{
+  "name": "module_5_004_nodejs_notation",
+  "version": "1.0.0",
+  "main": "notation.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^13.1.2"
+  }
+}
